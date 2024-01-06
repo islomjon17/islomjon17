@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I'm a Django back-end developer passionate about b
 ## 📫 Let's Connect
 - [Telegram blog](https://t.me/kebabdev)
 - [LinkedIn](https://www.linkedin.com/in/islomjon-turgunov/)
-- [Twitter](https://t.me/er_1723)
+- [Telegram](https://t.me/er_1723)
 
 Feel free to connect with me! I'm always open to collaborations and discussions on various projects.
